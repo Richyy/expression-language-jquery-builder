@@ -25,4 +25,30 @@ return [
     '@hotwired/turbo' => [
         'version' => '7.3.0',
     ],
+    'jQuery-QueryBuilder' => [
+        'version' => '3.0.0',
+    ],
+    'jQuery-QueryBuilder/dist/css/query-builder.default.min.css' => [
+        'version' => '3.0.0',
+        'type' => 'css',
+    ],
+    'jquery' => [
+        'version' => '3.7.1',
+    ],
+    'jquery-extendext' => [
+        'version' => '1.0.0',
+    ],
+    'bootstrap' => [
+        'version' => '5.3.3',
+    ],
+    '@popperjs/core' => [
+        'version' => '2.11.8',
+    ],
+    'bootstrap/dist/css/bootstrap.min.css' => [
+        'version' => '5.3.3',
+        'type' => 'css',
+    ],
+    'moment' => [
+        'version' => '2.30.1',
+    ],
 ];
